@@ -10,6 +10,8 @@ In the cat-and-mouse game of cybersecurity, static analysis tools have long stoo
 
 This article breaks down how threat actors (or red teamers in simulation mode) can turn XOR into an obfuscation powerhouse by combining it with multiple techniques to bypass static scanners, YARA signatures, and even human analysts.
 
+![XORception](https://github.com/user-attachments/assets/589ddf34-ddce-4905-adb4-f3fbecd06b60) <br/>
+
 ---
 
 ## 🔍 XOR Obfuscation 101
